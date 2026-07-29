@@ -1,0 +1,146 @@
+background 000000
+onBackground FFFFFF
+
+surface 000000
+surfaceDim 000000
+surfaceBright 1A1A1A
+
+surfaceContainerLowest 000000
+surfaceContainerLow 0D0D0D
+surfaceContainer 1A1A1A
+surfaceContainerHigh 262626
+surfaceContainerHighest 333333
+
+onSurface FFFFFF
+surfaceVariant 1A1A1A
+onSurfaceVariant FFFFFF
+
+outline CCCCCC
+outlineVariant 808080
+
+inverseSurface FFFFFF
+inverseOnSurface 000000
+
+shadow 000000
+scrim 000000
+
+surfaceTint FF00FF
+
+primary FF00FF
+primaryDim CC00CC
+onPrimary 000000
+primaryContainer 660066
+onPrimaryContainer FFFFFF
+inversePrimary CC00CC
+
+primaryFixed FFB5FF
+primaryFixedDim FF00FF
+onPrimaryFixed 000000
+onPrimaryFixedVariant 330033
+
+secondary FFFFFF
+secondaryDim CCCCCC
+onPrimary 000000
+onSecondary 000000
+secondaryContainer 333333
+onSecondaryContainer FFFFFF
+
+secondaryFixed FFFFFF
+secondaryFixedDim E0E0E0
+onSecondaryFixed 000000
+onSecondaryFixedVariant 333333
+
+tertiary FFFFFF
+tertiaryDim CCCCCC
+onTertiary 000000
+tertiaryContainer 333333
+onTertiaryContainer FFFFFF
+
+tertiaryFixed FFFFFF
+tertiaryFixedDim E0E0E0
+onTertiaryFixed 000000
+onTertiaryFixedVariant 333333
+
+error FF6685
+errorDim CC3352
+onError 000000
+errorContainer 66001A
+onErrorContainer FFFFFF
+
+success 00FF66
+onSuccess 000000
+successContainer 006629
+onSuccessContainer FFFFFF
+
+primaryPaletteKeyColor FF00FF
+secondaryPaletteKeyColor FFFFFF
+tertiaryPaletteKeyColor FFFFFF
+neutralPaletteKeyColor CCCCCC
+neutralVariantPaletteKeyColor 808080
+errorPaletteKeyColor FF6685
+
+primary_paletteKeyColor FF00FF
+secondary_paletteKeyColor FFFFFF
+tertiary_paletteKeyColor FFFFFF
+neutral_paletteKeyColor CCCCCC
+neutral_variant_paletteKeyColor 808080
+
+term0 000000
+term1 FF00FF
+term2 FFFFFF
+term3 FFFFFF
+term4 FFFFFF
+term5 FFFFFF
+term6 FFFFFF
+term7 FFFFFF
+
+term8 808080
+term9 FF00FF
+term10 CCCCCC
+term11 E0E0E0
+term12 FFFFFF
+term13 FFFFFF
+term14 FFFFFF
+term15 FFFFFF
+
+rosewater FFFFFF
+flamingo E0E0E0
+pink FFB5FF
+mauve FF00FF
+red FF6685
+maroon FF99CC
+peach FFCCFF
+yellow FFFFFF
+green CCCCCC
+teal E0E0E0
+sky FFFFFF
+sapphire FFB5FF
+blue FF00FF
+lavender FFE0FF
+
+klink FF00FF
+klinkSelection FF00FF
+kvisited CC00CC
+kvisitedSelection CC00CC
+knegative FF6685
+knegativeSelection FF6685
+kneutral CCCCCC
+kneutralSelection CCCCCC
+kpositive 00FF66
+kpositiveSelection 00FF66
+
+text FFFFFF
+subtext1 E0E0E0
+subtext0 CCCCCC
+
+overlay2 808080
+overlay1 666666
+overlay0 4D4D4D
+
+surface2 333333
+surface1 1A1A1A
+surface0 0D0D0D
+
+base 000000
+mantle 000000
+crust 000000   
