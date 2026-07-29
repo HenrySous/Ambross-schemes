@@ -1,0 +1,145 @@
+background 1C181C
+onBackground EAE5EA
+
+surface 1C181C
+surfaceDim 171217
+surfaceBright 2A232A
+
+surfaceContainerLowest 120E12
+surfaceContainerLow 1C181C
+surfaceContainer 252025
+surfaceContainerHigh 2F292F
+surfaceContainerHighest 3A333A
+
+onSurface EAE5EA
+surfaceVariant 2F292F
+onSurfaceVariant BDB6BD
+
+outline 756E75
+outlineVariant 4A454A
+
+inverseSurface EAE5EA
+inverseOnSurface 171317
+
+shadow 000000
+scrim 000000
+
+surfaceTint FF00FF
+
+primary FF00FF
+primaryDim CC00CC
+onPrimary 000000
+primaryContainer 4A004A
+onPrimaryContainer E0B0E0
+inversePrimary CC00CC
+
+primaryFixed E0B0E0
+primaryFixedDim CC80CC
+onPrimaryFixed 1A001A
+onPrimaryFixedVariant 4A004A
+
+secondary 9E9E9E
+secondaryDim 858585
+onSecondary 000000
+secondaryContainer 3A3A3A
+onSecondaryContainer D1D1D1
+
+secondaryFixed D1D1D1
+secondaryFixedDim B8B8B8
+onSecondaryFixed 1A1A1A
+onSecondaryFixedVariant 4A4A4A
+
+tertiary 7A7A7A
+tertiaryDim 666666
+onTertiary 000000
+tertiaryContainer 2A2A2A
+onTertiaryContainer C4C4C4
+
+tertiaryFixed C4C4C4
+tertiaryFixedDim ABABAB
+onTertiaryFixed 1A1A1A
+onTertiaryFixedVariant 4A4A4A
+
+error D8607A
+errorDim B94660
+onError FFFFFF
+errorContainer 621A2E
+onErrorContainer FFDCE3
+
+success 72C28C
+onSuccess 0E2515
+successContainer 294133
+onSuccessContainer DCF7E4
+
+primaryPaletteKeyColor FF00FF
+secondaryPaletteKeyColor 9E9E9E
+tertiaryPaletteKeyColor 7A7A7A
+neutralPaletteKeyColor 817B81
+neutralVariantPaletteKeyColor 716B71
+errorPaletteKeyColor D8607A
+
+primary_paletteKeyColor FF00FF
+secondary_paletteKeyColor 9E9E9E
+tertiary_paletteKeyColor 7A7A7A
+neutral_paletteKeyColor 817B81
+neutral_variant_paletteKeyColor 716B71
+
+term0 252025
+term1 FF00FF
+term2 9E9E9E
+term3 7A7A7A
+term4 BDBDBD
+term5 E0E0E0
+term6 F5F5F5
+term7 EAE5EA
+
+term8 585258
+term9 CC00CC
+term10 BDBDBD
+term11 D1D1D1
+term12 E0E0E0
+term13 F5F5F5
+term14 FFFFFF
+term15 FFFFFF
+
+rosewater EAE5EA
+flamingo D6D1D6
+pink C4BCC4
+mauve FF00FF
+red 9E9E9E
+maroon 858585
+peach 756E75
+yellow 666666
+green 585258
+teal 4A454A
+sky 3A333A
+sapphire 2F292F
+blue 252025
+lavender 1C181C
+
+klink FF00FF
+klinkSelection FF00FF
+kvisited CC00CC
+kvisitedSelection CC00CC
+knegative D8607A
+knegativeSelection D8607A
+kneutral A09AA0
+kneutralSelection A09AA0
+kpositive 72C28C
+kpositiveSelection 72C28C
+
+text EAE5EA
+subtext1 BDB6BD
+subtext0 9A919A
+
+overlay2 756E75
+overlay1 5F595F
+overlay0 494449
+
+surface2 393439
+surface1 2B262B
+surface0 1C181C
+
+base 1C181C
+mantle 171217
+crust 120E12   
